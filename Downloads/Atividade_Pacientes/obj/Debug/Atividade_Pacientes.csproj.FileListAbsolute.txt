@@ -1,7 +1,0 @@
-C:\Users\lab3125\Desktop\ab\Atividade_Pacientes\Atividade_Pacientes\obj\Debug\Atividade_Pacientes.csproj.AssemblyReference.cache
-C:\Users\lab3125\Desktop\ab\Atividade_Pacientes\Atividade_Pacientes\obj\Debug\Atividade_Pacientes.csproj.CoreCompileInputs.cache
-C:\Users\lab3125\Desktop\ab\Atividade_Pacientes\Atividade_Pacientes\bin\Debug\Atividade_Pacientes.exe.config
-C:\Users\lab3125\Desktop\ab\Atividade_Pacientes\Atividade_Pacientes\bin\Debug\Atividade_Pacientes.exe
-C:\Users\lab3125\Desktop\ab\Atividade_Pacientes\Atividade_Pacientes\bin\Debug\Atividade_Pacientes.pdb
-C:\Users\lab3125\Desktop\ab\Atividade_Pacientes\Atividade_Pacientes\obj\Debug\Atividade_Pacientes.exe
-C:\Users\lab3125\Desktop\ab\Atividade_Pacientes\Atividade_Pacientes\obj\Debug\Atividade_Pacientes.pdb
