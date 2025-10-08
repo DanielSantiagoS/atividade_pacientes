@@ -1,0 +1,16 @@
+C:\Users\ds864\source\repos\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.csproj.AssemblyReference.cache
+C:\Users\ds864\source\repos\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.csproj.CoreCompileInputs.cache
+C:\Users\ds864\source\repos\Atividade_pacientes\Atividade_pacientes\bin\Debug\Atividade_pacientes.exe.config
+C:\Users\ds864\source\repos\Atividade_pacientes\Atividade_pacientes\bin\Debug\Atividade_pacientes.exe
+C:\Users\ds864\source\repos\Atividade_pacientes\Atividade_pacientes\bin\Debug\Atividade_pacientes.pdb
+C:\Users\ds864\source\repos\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.exe
+C:\Users\ds864\source\repos\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.pdb
+C:\Users\ds864\source\repos\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.exe.config
+C:\Users\ds864\Desktop\Atividade_pacientes\Atividade_pacientes\bin\Debug\Atividade_pacientes.exe.config
+C:\Users\ds864\Desktop\Atividade_pacientes\Atividade_pacientes\bin\Debug\Atividade_pacientes.exe
+C:\Users\ds864\Desktop\Atividade_pacientes\Atividade_pacientes\bin\Debug\Atividade_pacientes.pdb
+C:\Users\ds864\Desktop\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.csproj.AssemblyReference.cache
+C:\Users\ds864\Desktop\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.exe.config
+C:\Users\ds864\Desktop\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.csproj.CoreCompileInputs.cache
+C:\Users\ds864\Desktop\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.exe
+C:\Users\ds864\Desktop\Atividade_pacientes\Atividade_pacientes\obj\Debug\Atividade_pacientes.pdb
